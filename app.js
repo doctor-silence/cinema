@@ -37,10 +37,10 @@
 
 // document.write(answers);
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 
-incr++
-decr--
-console.log(incr);
-console.log(decr);
+// incr++
+// decr--
+// console.log(incr);
+// console.log(decr);
