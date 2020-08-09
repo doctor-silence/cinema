@@ -44,3 +44,37 @@
 // decr--
 // console.log(incr);
 // console.log(decr);
+
+// let num = 50
+    // while (num < 55) {
+    //     console.log(num);
+    //     num++
+    // }
+
+    // do {
+    //     console.log(num);
+    //     num++
+    // }
+    // while (num <= 55)
+
+    // for (i = 1; i < 5; i++) {
+    //     console.log(i);
+    // }
+
+    // for (i = 1; i < 7; i++) {
+    //     if (i === 6) {
+    //         break;
+    //     }
+
+
+    //     console.log(i);
+    // }
+
+    // for (i = 1; i < 10; i++) {    // Пропуск
+    //     if (i === 6) {
+    //         continue;
+    //     }
+
+
+    //     console.log(i);
+    // }
